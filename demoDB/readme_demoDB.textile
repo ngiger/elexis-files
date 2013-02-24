@@ -1,0 +1,10 @@
+Uses of demoDB:
+
+1) You may install the demoDB from the installer.jar. There nobody has admin or mandanten rights. 
+   (KISS, Keep It Simple, Stupid) This should be okay for all beginners,
+   
+2) demoDB_2.1.7_with_mandant.zip. Download and unzip this file into your installation and you have some more rights if you log in as test with password test.
+
+3) demoDB_2_1_7_mit_Administrator.zip. Download and unzip this file into your installation and you have all rights if you log in as Administrator and password admin
+
+Niklaus Giger, February 2013
